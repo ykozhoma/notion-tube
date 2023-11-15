@@ -35,20 +35,20 @@ Helps to transfer educational playlists and videos from YouTube to Notion databa
     				"url": "https://youtube.com/playlist?list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&si=NbqBe_L1VD2TiF2b"
     			}
     		],
-    	"videos":
-    		{
-    			"page_id": "ba096c867247474eb2d56bb27e366bd0",
-    			"urls":
-    				[
-    					"https://www.youtube.com/watch?v=sZ8GJ1TiMdk",
-    					"https://www.youtube.com/watch?v=Xd_qsKEuazo",
-    					"https://www.youtube.com/watch?v=o-k3xgV0oBE",
-    					"https://www.youtube.com/watch?v=443UNeGrFoM",
-    					"https://www.youtube.com/watch?v=XS2JddPq7GQ",
-    					"https://www.youtube.com/watch?v=St0MNEU5b0o",
-    					"https://www.youtube.com/watch?v=pIzaZbKUw2s"
-    				]
-    		}
+    "videos":
+    	{
+    		"page_id": "ba096c867247474eb2d56bb27e366bd0",
+    		"urls":
+    			[
+    				"https://www.youtube.com/watch?v=sZ8GJ1TiMdk",
+    				"https://www.youtube.com/watch?v=Xd_qsKEuazo",
+    				"https://www.youtube.com/watch?v=o-k3xgV0oBE",
+    				"https://www.youtube.com/watch?v=443UNeGrFoM",
+    				"https://www.youtube.com/watch?v=XS2JddPq7GQ",
+    				"https://www.youtube.com/watch?v=St0MNEU5b0o",
+    				"https://www.youtube.com/watch?v=pIzaZbKUw2s"
+    			]
+    	}
     ```
     
     , where `page_id` is the *id* of the page, manually created inside *Courses* database. It is designated to place all *standalone* videos under one *Course*.

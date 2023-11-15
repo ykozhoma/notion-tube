@@ -1,0 +1,36 @@
+{
+	"databases":
+		[
+			{
+				"name": "Courses",
+				"database_id": "a96bc519909247148816c4357a55e7ad"
+			},	
+			{
+				"name": "Lessons",
+				"database_id": "ca15a5bffba44822ab697ef67e655680"
+			}
+		],
+	"playlists":
+		[],
+	"videos":
+		{
+			"page_id": "ba096c867247474eb2d56bb27e366bd0",
+			"urls":
+			[
+				"https://www.youtube.com/watch?v=nC1U1LJQL8o",
+				"https://www.youtube.com/watch?v=jKS9dSHkAZY",
+				"https://www.youtube.com/watch?v=YbgH7yat-Jo",
+				"https://www.youtube.com/watch?v=HqsEHG0QJXU",
+				"https://www.youtube.com/watch?v=YzIBwqWC6EM",
+				"https://www.youtube.com/watch?v=motLOioLJfg",
+				"https://www.youtube.com/watch?v=O65lEiYkkbc",
+				"https://www.youtube.com/watch?v=QqwlCczvnIc"
+			]
+		},
+
+	"playlist_template":
+		{
+			"name": "C Programming",
+			"url": "https://youtube.com/playlist?list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&si=NbqBe_L1VD2TiF2b"
+		}
+}
